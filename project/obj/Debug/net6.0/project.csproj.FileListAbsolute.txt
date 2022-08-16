@@ -1,0 +1,15 @@
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\bin\Debug\net6.0\project.exe
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\bin\Debug\net6.0\project.deps.json
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\bin\Debug\net6.0\project.dll
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\bin\Debug\net6.0\project.pdb
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.dll
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\refint\project.dll
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.pdb
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\Work\GeekBrains\C#\seminer3(C sharp)\project\obj\Debug\net6.0\ref\project.dll
